@@ -7,8 +7,8 @@ from sentence_transformers import SentenceTransformer
 bucket_name = "getembeddingsone"
 courses_file_key = "courses_data_shh.csv"
 
-aws_access_key_id = 'AKIAQSOI4LYDLNRXA2NB'
-aws_secret_access_key = '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'
+aws_access_key_id = 'None'
+aws_secret_access_key = 'None'
 region_name = 'ap-south-1'
 
 # Initialize S3 client
